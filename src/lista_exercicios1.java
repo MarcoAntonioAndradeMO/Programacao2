@@ -17,9 +17,9 @@ public class lista_exercicios1 {
         for (double num : nums) {
             somaNotas += num;
         }
-        double media = somaNotas / nums.length;
-        return media;
+        return somaNotas / nums.length;
     }
+
     // Exercício 3:
     public static double novoSalario(double salario) {
         return (salario * 1.25);
@@ -39,7 +39,7 @@ public class lista_exercicios1 {
         Scanner scanner = new Scanner(System.in);
 
         // Caso Teste Exercício 1
-        int[] numeros = new int[4];
+        /* int[] numeros = new int[4];
         System.out.println("Informe 4 números, em sequência: ");
 
         for (int i = 0; i < 4; i++) {
@@ -50,6 +50,25 @@ public class lista_exercicios1 {
         System.out.println("Resultado da soma: " + soma);
 
         // Caso Teste Exercício 2
+        double[] notas = new double[3];
+        System.out.println("Informe as 3 notas: ");
+        for (int i = 0; i < 3; i++) {
+            notas[i] = scanner.nextDouble();
+        }
+
+        double media = mediaNotas(notas);
+        System.out.println("Resultado da média das Notas: " + media);
+        */
+
+        // Caso Teste Exercício 3
+        double salario;
+        System.out.println("Digite o Salário atual: ");
+        salario = scanner.nextDouble();
+
+        double salarioAjustado = novoSalario(salario);
+        System.out.println("O novo salário é: R$ " + salarioAjustado);
+
+        // Caso Teste Exercício 4
 
     }
 }
