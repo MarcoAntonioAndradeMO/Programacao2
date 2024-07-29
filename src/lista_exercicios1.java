@@ -79,8 +79,16 @@ public class lista_exercicios1 {
         System.out.println("A área do Triângulo é: " + area);
 
          */
+
         // Caso Teste Exercício 5
+        double base;
+        double expoente;
+        System.out.println("Digite o valor da Base: ");
+        base = scanner.nextDouble();
+        System.out.println("Digite o valor do Expoente: ");
+        expoente = scanner.nextDouble();
 
-
+        double pot = potencia(base, expoente);
+        System.out.println("O valor da potência é: " + pot);
     }
 }
