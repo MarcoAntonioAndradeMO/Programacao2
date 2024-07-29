@@ -27,7 +27,7 @@ public class lista_exercicios1 {
 
     // Exercício 4:
     public static double areaTriangulo(double altura, double base){
-        return (altura * base) / 2;
+        return ((altura * base) / 2);
     }
 
     // Exercício 5:
@@ -58,7 +58,6 @@ public class lista_exercicios1 {
 
         double media = mediaNotas(notas);
         System.out.println("Resultado da média das Notas: " + media);
-        */
 
         // Caso Teste Exercício 3
         double salario;
@@ -69,6 +68,19 @@ public class lista_exercicios1 {
         System.out.println("O novo salário é: R$ " + salarioAjustado);
 
         // Caso Teste Exercício 4
+        double altura;
+        double base;
+        System.out.println("Digite a base: ");
+        base = scanner.nextDouble();
+        System.out.println("Digite a altura: ");
+        altura = scanner.nextDouble();
+
+        double area = areaTriangulo(altura, base);
+        System.out.println("A área do Triângulo é: " + area);
+
+         */
+        // Caso Teste Exercício 5
+
 
     }
 }
