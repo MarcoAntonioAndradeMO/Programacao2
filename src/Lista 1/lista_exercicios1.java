@@ -26,8 +26,8 @@ public class lista_exercicios1 {
     }
 
     // Exercício 4:
-    public static double areaTriangulo(double altura, double base){
-        return ((altura * base) / 2);
+    public static double areaTriangulo(double altura, double baset){
+        return ((altura * baset) / 2);
     }
 
     // Exercício 5:
@@ -39,7 +39,7 @@ public class lista_exercicios1 {
         Scanner scanner = new Scanner(System.in);
 
         // Caso Teste Exercício 1
-        /* int[] numeros = new int[4];
+        int[] numeros = new int[4];
         System.out.println("Informe 4 números, em sequência: ");
 
         for (int i = 0; i < 4; i++) {
@@ -69,16 +69,14 @@ public class lista_exercicios1 {
 
         // Caso Teste Exercício 4
         double altura;
-        double base;
+        double baset;
         System.out.println("Digite a base: ");
-        base = scanner.nextDouble();
+        baset = scanner.nextDouble();
         System.out.println("Digite a altura: ");
         altura = scanner.nextDouble();
 
-        double area = areaTriangulo(altura, base);
+        double area = areaTriangulo(altura, baset);
         System.out.println("A área do Triângulo é: " + area);
-
-         */
 
         // Caso Teste Exercício 5
         double base;
