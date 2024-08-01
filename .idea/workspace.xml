@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Organozação das pastas e Casos de teste">
-      <change afterPath="$PROJECT_DIR$/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista 2/questao_1.java" afterDir="false" />
+    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Questão 1 Lista 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lista 1/lista_exercicios1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lista 1/lista_exercicios1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +17,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -70,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\Programacao2" />
       <recent name="C:\Users\marco\Programacao2\src\Lista 1\testes" />
     </key>
   </component>
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722268774133</updated>
       <workItem from="1722268775308" duration="15881000" />
-      <workItem from="1722479156430" duration="328000" />
+      <workItem from="1722479156430" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="Repositório para disciplina de P2">
       <option name="closed" value="true" />
@@ -140,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722287955069</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Questão 1 Lista 2">
+      <option name="closed" value="true" />
+      <created>1722479701512</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722479701512</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="Questão 4" />
     <MESSAGE value="Questão 5" />
     <MESSAGE value="Organozação das pastas e Casos de teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organozação das pastas e Casos de teste" />
+    <MESSAGE value="Questão 1 Lista 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Questão 1 Lista 2" />
   </component>
 </project>
