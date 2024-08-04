@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Casos de Teste Questão 1">
-      <change afterPath="$PROJECT_DIR$/src/lista2/Questao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista2/Questao2.java" afterDir="false" />
+    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Nova Estrutura de Pastas">
+      <change afterPath="$PROJECT_DIR$/src/lista3/questao1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lista 2/Testes/Lista 2 Q1 teste 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista2/Testes/Lista 2 Q1 teste 1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lista 2/Testes/Lista 2 Q1 teste 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista2/Testes/Lista 2 Q1 teste 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lista 2/questao_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/questao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista2/questao2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,7 @@
     "Application.Questao1.executor": "Run",
     "Application.Questao2.executor": "Run",
     "Application.lista_exercicios1.executor": "Run",
+    "Application.questao2.executor": "Run",
     "Application.questao_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -104,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722268774133</updated>
       <workItem from="1722268775308" duration="15881000" />
-      <workItem from="1722479156430" duration="3575000" />
+      <workItem from="1722479156430" duration="6847000" />
     </task>
     <task id="LOCAL-00001" summary="Repositório para disciplina de P2">
       <option name="closed" value="true" />
@@ -170,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722480038260</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Nova Estrutura de Pastas">
+      <option name="closed" value="true" />
+      <created>1722549037163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722549037163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +203,7 @@
     <MESSAGE value="Organozação das pastas e Casos de teste" />
     <MESSAGE value="Questão 1 Lista 2" />
     <MESSAGE value="Casos de Teste Questão 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Casos de Teste Questão 1" />
+    <MESSAGE value="Nova Estrutura de Pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nova Estrutura de Pastas" />
   </component>
 </project>
