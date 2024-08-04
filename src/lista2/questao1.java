@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class questao_1 {
+public class questao1 {
     public static String comparaNum(int[] nums) {
         if (nums[0] > nums[1]) {
             return "O maior número é: " + nums[0];
