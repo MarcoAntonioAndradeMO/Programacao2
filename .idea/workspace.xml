@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Lista 4 Questão 2 e Testes">
-      <change afterPath="$PROJECT_DIR$/src/lista4/questao3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Lista 4 Questão 3 e Testes">
+      <change afterPath="$PROJECT_DIR$/src/lista4/questao4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
       <updated>1722268774133</updated>
       <workItem from="1722268775308" duration="15881000" />
       <workItem from="1722479156430" duration="17765000" />
-      <workItem from="1724073663549" duration="3899000" />
+      <workItem from="1724073663549" duration="4609000" />
     </task>
     <task id="LOCAL-00001" summary="Repositório para disciplina de P2">
       <option name="closed" value="true" />
@@ -278,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724077889645</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lista 4 Questão 3 e Testes">
+      <option name="closed" value="true" />
+      <created>1724079512986</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724079512986</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +325,7 @@
     <MESSAGE value="Lista 3 Questão 5 e Teste" />
     <MESSAGE value="Lista 4 Questão 1 e Testes" />
     <MESSAGE value="Lista 4 Questão 2 e Testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista 4 Questão 2 e Testes" />
+    <MESSAGE value="Lista 4 Questão 3 e Testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lista 4 Questão 3 e Testes" />
   </component>
 </project>
