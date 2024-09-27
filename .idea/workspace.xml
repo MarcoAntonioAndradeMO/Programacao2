@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Lista 4 Questão 5 e Testes">
-      <change afterPath="$PROJECT_DIR$/src/OOP_Construtor_encapsulamento_Invariante/Exercicio_oop_construtor.java" afterDir="false" />
+    <list default="true" id="26ac068f-cb12-4e61-ac17-a6b28f6a67c5" name="Changes" comment="Atividade OOP Construtores">
+      <change afterPath="$PROJECT_DIR$/src/OOP_equals_toString_Herança/OOP_Equals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,7 @@
       <workItem from="1722479156430" duration="17765000" />
       <workItem from="1724073663549" duration="6134000" />
       <workItem from="1725659496244" duration="41000" />
-      <workItem from="1727466414093" duration="1646000" />
+      <workItem from="1727466414093" duration="2401000" />
     </task>
     <task id="LOCAL-00001" summary="Repositório para disciplina de P2">
       <option name="closed" value="true" />
@@ -304,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724081277354</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Atividade OOP Construtores">
+      <option name="closed" value="true" />
+      <created>1727468446906</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468446906</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +355,7 @@
     <MESSAGE value="Lista 4 Questão 3 e Testes" />
     <MESSAGE value="Lista 4 Questão 4 e Testes" />
     <MESSAGE value="Lista 4 Questão 5 e Testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista 4 Questão 5 e Testes" />
+    <MESSAGE value="Atividade OOP Construtores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividade OOP Construtores" />
   </component>
 </project>

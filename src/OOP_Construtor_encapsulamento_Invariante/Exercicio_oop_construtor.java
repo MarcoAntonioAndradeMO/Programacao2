@@ -35,17 +35,20 @@ public class Exercicio_oop_construtor {
     }
 
     public class Main {
-        public static void main(String[] args) {
-            Point p = new Point(10, 10);
-            System.out.println("Posição inicial: (" + p.getX() + ", " + p.getY() + ")");
+        public void main(String[] args) {
+            Point p1 = new Point(10, 20);
+            Point p2 = new Point(10, 20);
 
-            p.moveBy(50, 100);
-            System.out.println("Posição após moveBy(50, 100): (" + p.getX() + ", " + p.getY() + ")");
+            System.out.println(p1.equals(p2));
+            System.out.println(p1.toString());
+
+            ScreenPoint sp1 = new ScreenPoint(150, 150);
+            System.out.println(sp1.toString());
 
             try {
-                p.setX(500); // Deve lançar exceção
+                ScreenPoint sp2 = new ScreenPoint(350, 150);
             } catch (IllegalArgumentException e) {
-                System.out.println("Exceção capturada: " + e.getMessage());
+                System.out.println(e.getMessage());
             }
         }
     }
